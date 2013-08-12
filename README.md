@@ -1,3 +1,3 @@
 TeamDemo
 ========
-TeamDemo!
+TeamDemo
