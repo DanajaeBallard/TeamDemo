@@ -1,0 +1,17 @@
+body {
+     background-color: cyan;
+
+}
+
+.leader {
+        font-weight: bold;
+
+}
+
+.teams {
+    margin: 1px;
+    border: solid;
+    border-radius: 100px;
+    padding: 5px;
+
+}
