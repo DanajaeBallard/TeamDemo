@@ -15,3 +15,38 @@ body {
     padding: 5px;
 
 }
+
+.navbar-inner {
+  background-image: -moz-linear-gradient(top, #ffffff, #0202ff);
+  background-image: -ms-linear-gradient(top, #ffffff, #0202ff);
+  background-image: -webkit-gradient(linear, 0 0, 0 100%, from(#ffffff), to(#0202ff));
+  background-image: -webkit-linear-gradient(top, #ffffff, #0202ff);
+  background-image: -o-linear-gradient(top, #ffffff, #0202ff);
+  background-image: linear-gradient(top, #ffffff, #0202ff);
+  filter: progid:DXImageTransform.Microsoft.gradient(startColorstr='#'ffffff, endColorstr='#'0202ff, GradientType=0);
+}
+
+.navbar .brand {
+  padding: 8px 20px 12px;
+  font-size: 20px;
+  color: #ffffff;
+}
+
+.navbar .divider-vertical {
+  height: 41px;
+  background-color: #ffffff;
+  border-right: 1px solid #c6c6c6;
+}
+
+.navbar .nav > li > a {
+  padding: 10px 10px 11px;
+  font-size: 14px;
+  color: #ffffff;
+}
+
+.navbar .nav > .active > a,
+.navbar .nav > .active > a:hover,
+.navbar .nav > .active > a:focus {
+  color: #424242;
+}
+
